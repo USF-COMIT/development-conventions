@@ -8,9 +8,9 @@
 
 import sphinx_rtd_theme
 
-project = 'URI Ocean Robotics Development And Deployment Conventions'
-copyright = '2022, URI Ocean Robotics'
-author = 'URI Ocean Robotics Authors'
+project = 'USF COMIT Development And Deployment Conventions'
+copyright = '2022, USF COMIT'
+author = 'Kristopher Krasnosky, Emir Gezer, and USF COMIT Authors'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
